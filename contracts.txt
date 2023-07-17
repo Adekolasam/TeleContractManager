@@ -1,0 +1,7 @@
+17-Jul-2023	2	3	3	Yes	JK123B	1050	A Adekola	
+17-Jul-2023	3	3	2	No	JJ345N	2000	M Omole	
+17-Jul-2023	2	2	3	Yes	KK123B	1050	Osho	
+17-Jul-2023	1	1	2	No	GG321N	900	Omoba	
+17-Jul-2023	2	2	2	Yes	AA123B	1050	Adesola	
+17-Jul-2023	3	3	2	No	LK114B	2000	Brian Kelly	
+17-Jul-2023	3	4	3	Yes	LK221B	2000	Felix Mark	
